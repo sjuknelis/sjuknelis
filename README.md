@@ -3,7 +3,7 @@ I'm Simon, a high school student from Eastern MA! I like making projects for my 
 
 ### Some highlights:
 
-🤖 [Last year's code for my school's robotics team](https://github.com/NoblesRobotics/robbie) and [a plugin to test out code on our robot several times faster](https://github.com/sjuknelis/WebBot)
+🤖 [Last year's code for my school's robotics team](https://github.com/NoblesRobotics/robbie) and [a plugin to test out code on our robot several times faster than usually possible](https://github.com/sjuknelis/WebBot)
 
 💻 [Secure electromagnetically locked boxes for borrowing chargers at my school's library](https://github.com/sjuknelis/chargerbox)
 
