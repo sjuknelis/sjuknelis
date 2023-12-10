@@ -13,4 +13,4 @@ I'm Simon, a high school student from Eastern MA! I like making projects for my 
 
 🗺 [A mobile map of my school for new students and parents using the A* algorithm](https://github.com/sjuknelis/tourapp)
 
-🗞 [Many](https://cogitonobles.github.io/) [school](https://noblesnobelium.github.io/) [magazine](https://noblesclassics.com/) [websites](https://ngmun.nobles.edu/) ([including a backend importer from Google Docs!](https://github.com/sjuknelis/NoblemanSvelte))
+🗞 [Many](https://cogitonobles.github.io/) [school](https://noblesnobelium.github.io/)/[magazine](https://noblesclassics.com/) [websites](https://ngmun.nobles.edu/) ([including a backend importer from Google Docs!](https://github.com/sjuknelis/NoblemanSvelte))
