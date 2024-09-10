@@ -1,5 +1,5 @@
 ### Hey! 👋
-I'm Simon, a first-year CS student at Brown University! I like making projects for my community, so that's mostly what you'll find here :)
+I'm Simon, a first-year CS student at Brown University! Over the years, I've loved making projects for my communities, so that's mostly what you'll find here :)
 
 ### Some highlights:
 
